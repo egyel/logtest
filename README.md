@@ -5,7 +5,7 @@ This is the Logtest service
 Generated with
 
 ```
-micro new gitlab.com/krayohu/logtest --namespace=ps.clientele --fqdn=ps.clientele.svc.logtest --type=srv
+micro new gitlab.com/krayohu/logtest --namespace=go.micro --fqdn=go.micro.srv.logtest --type=srv
 ```
 
 ## Getting Started
@@ -16,7 +16,7 @@ micro new gitlab.com/krayohu/logtest --namespace=ps.clientele --fqdn=ps.clientel
 
 ## Configuration
 
-- FQDN: ps.clientele.svc.logtest
+- FQDN: go.micro.srv.logtest
 - Type: srv
 - Alias: logtest
 
